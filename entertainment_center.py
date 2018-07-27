@@ -40,7 +40,7 @@ hunger_games = media.Movie("Hunger Games",
 #Creating the list of movies from the created objects
 movies = [rampage, jumanji, batman, madmax, ratatouille, hunger_games]
 
-""" Call the function open_movies_page from module fresh_tomatoes.py """
+#Call the function open_movies_page from module fresh_tomatoes.py
 fresh_tomatoes.open_movies_page(movies)
 
 

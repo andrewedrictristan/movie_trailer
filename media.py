@@ -1,7 +1,7 @@
 import webbrowser
 
 class Movie():
-"""Class movie is consist of constructor and method"""
+    """Class movie is consist of constructor and method"""
 
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         """ Inits is the constructor where its parameter will get the value from module entertainment_center """
